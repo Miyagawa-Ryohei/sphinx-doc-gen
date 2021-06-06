@@ -1,0 +1,5 @@
+export PLANTUML_HOME='path/to/plantuml'
+export PROJECT_NAME="ProjectName"
+export COPYRIGHT="2021 me"
+export AUTHOR="Author name"
+export COMPANY="My Company"
